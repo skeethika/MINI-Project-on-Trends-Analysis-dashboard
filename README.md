@@ -14,6 +14,9 @@ Collected and cleaned customer purchase data, created DAX measures, and designed
 
 DASHBOARD:
 
+<img width="600" height="334" alt="image" src="https://github.com/user-attachments/assets/5de6c755-3d04-4118-b66e-4c8867835f5d" />
+
+
 
 
 Final Conclusion :
